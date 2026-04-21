@@ -12,10 +12,12 @@
   "dependencies": {
     "aos": "^2.3.4",
     "astro": "^5.7.13",
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "nodemailer": "^8.0.5"
   },
   "devDependencies": {
     "@types/aos": "^3.0.7",
+    "@types/nodemailer": "^8.0.0",
     "sass": "^1.86.0"
   }
 }
