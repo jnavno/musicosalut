@@ -11,7 +11,7 @@ const { Content } = await render(contactLanding)
 import { myInfo } from "src/data/myInfo"
 const { email, phone, onlineTreating, officeAddress } = myInfo
 
-const title: string = "Virtually or In-Person"
+const title: string = "Virtualment o Presencial"
 ---
 
 <h2
@@ -26,40 +26,38 @@ const title: string = "Virtually or In-Person"
   class="container-fluid d-flex flex-column flex-lg-row my-4 over-hidden"
   aria-labelledby="contact-info-title"
 >
-  <!--- First block --->
   <div class="container col-12 col-lg-6 px-lg-4 my-3">
     <ul
       class="contact-info-list"
-      aria-label="Contact details"
+      aria-label="Dades de contacte"
       data-aos="fade-right"
       data-aos-duration="1250"
     >
       <li>
         <i class="fa-solid fa-envelope" aria-hidden="true"></i>
-        Email
+        Correu electrònic
         <p>{email}</p>
       </li>
       <li>
         <i class="fa-solid fa-phone" aria-hidden="true"></i>
-        Phone
+        Telèfon
         <p>{phone}</p>
       </li>
       <li>
         <i class="fa-solid fa-globe" aria-hidden="true"></i>
-        Online Treating
+        Sessió Online
         <p>{onlineTreating}</p>
       </li>
       <li>
         <i class="fa-solid fa-couch" aria-hidden="true"></i>
-        In Person
+        Presencial
         <p>{officeAddress}</p>
       </li>
     </ul>
   </div>
-  <!--- Second block --->
   <article
     class="container col-12 col-lg-6 px-lg-4 my-3"
-    aria-label="Additional contact information"
+    aria-label="Informació addicional de contacte"
     data-aos="fade-left"
     data-aos-duration="1250"
   >
