@@ -1,17 +1,17 @@
 ---
-title: "Third Review"
+title: "Tercer testimoni"
 ---
 
-For a long time, I struggled with anxiety and self-doubt, unsure of how to break free from the cycle. Seeking help felt daunting, but I’m so grateful I took that step.
+Durant molt de temps, vaig lluitar contra l'ansietat i la inseguretat, sense saber com trencar aquest cercle viciós. Demanar ajuda em feia respecte, però estic molt agraït/da d'haver fet el pas.
 
-From the very first session, I felt truly heard and understood. There was no judgment—only patience, kindness, and unwavering support.
+Des de la primera sessió, em vaig sentir realment escoltat/da i comprès/a. No hi va haver cap judici; només paciència, amabilitat i un suport incondicional.
 
-Through our conversations, I discovered the root of my struggles and learned how to approach them with clarity and confidence.
+A través de les nostres converses, vaig descobrir l'arrel de les meves dificultats i vaig aprendre a abordar-les amb claredat i confiança.
 
-One of the most profound changes was learning how to set boundaries and prioritize my well-being. It’s something I never thought I could do before.
+Un dels canvis més profunds ha estat aprendre a posar límits i a prioritzar el meu benestar. És una cosa que mai hauria pensat que seria capaç de fer.
 
-Each session gave me new insights, practical tools, and a sense of empowerment that I carry with me every day.
+Cada sessió em va aportar noves perspectives, eines pràctiques i una sensació d'empoderament que m'acompanya cada dia.
 
-I’ve gained the ability to face challenges without fear and embrace life with renewed optimism.
+He guanyat la capacitat d'afrontar els reptes sense por i d'abraçar la vida amb un optimisme renovat.
 
-This journey has been life-changing, and I can’t express enough gratitude for the support that helped me find my strength again.
+Aquest viatge m'ha canviat la vida, i no tinc prou paraules d'agraïment pel suport que m'ha ajudat a retrobar la meva força.

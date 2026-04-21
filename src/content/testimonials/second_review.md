@@ -1,17 +1,17 @@
 ---
-title: "Second Review"
+title: "Segon testimoni"
 ---
 
-For years, I felt trapped in my own thoughts, unable to break free from the patterns that held me back. Seeking therapy was a difficult decision, but looking back, I can confidently say it was one of the best choices I’ve ever made.
+Durant anys, em vaig sentir atrapat/da en els meus propis pensaments, incapaç d'alliberar-me dels patrons que em frenaven. Prendre la decisió de fer teràpia va ser difícil, però mirant enrere, puc dir amb total seguretat que ha estat una de les millors eleccions que he pres mai.
 
-From our first conversation, I felt a sense of relief. I was welcomed with warmth and understanding, which made opening up so much easier than I had expected.
+Des de la nostra primera conversa, vaig sentir una gran sensació d'alleujament. Em van rebre amb calidesa i comprensió, fet que va fer que obrir-me fos molt més fàcil del que esperava.
 
-Each session was a step forward. I learned how to recognize and challenge my negative thoughts, allowing me to see situations from a healthier perspective.
+Cada sessió era un pas endavant. Vaig aprendre a reconèixer i a qüestionar els meus pensaments negatius, cosa que em va permetre veure les situacions des d'una perspectiva més saludable.
 
-One of the most valuable things I gained was a sense of self-compassion. I no longer criticize myself harshly but instead acknowledge my progress with kindness.
+Una de les coses més valuoses que he guanyat ha estat el sentit de l'autocompassió. Ja no em critico amb duresa, sinó que reconec el meu progrés amb amabilitat cap a mi mateix/a.
 
-I also developed practical tools to manage stress and anxiety, which have made a real difference in my daily life.
+També he desenvolupat eines pràctiques per gestionar l'estrès i l'ansietat, que han marcat una diferència real en el meu dia a dia.
 
-This experience has given me clarity, confidence, and the courage to face life’s challenges head-on.
+Aquesta experiència m'ha donat claredat, confiança i el coratge per afrontar els reptes de la vida de cara.
 
-I’m deeply grateful for the support and guidance I received. I never thought I could feel this empowered, but now, I truly believe in my ability to move forward.
+Estic profundament agraït/da pel suport i la guia que he rebut. Mai vaig pensar que em podria sentir tan empoderat/da, però ara crec de veritat en la meva capacitat per seguir endavant.

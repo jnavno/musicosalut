@@ -1,23 +1,23 @@
 export const benefits1 = [
-  { title: "Improved emotional regulation", description: "Learn to manage intense emotions more effectively." },
-  { title: "Better self-awareness", description: "Gain insight into your thoughts, behaviors, and patterns." },
-  { title: "Enhanced relationships", description: "Improve communication and conflict resolution skills." },
-  { title: "Stress reduction", description: "Develop strategies to manage stress and anxiety." },
-  { title: "Increased resilience", description: "Build coping mechanisms for life's challenges." },
-  { title: "Clarified goals", description: "Identify and work toward personal and professional goals." },
-  { title: "Overcome trauma", description: "Heal from past traumatic experiences." },
-  { title: "Improved focus", description: "Enhance concentration and mental sharpness." },
-  { title: "Behavioral change", description: "Modify unhelpful or harmful behaviors." }
+  { title: "Millora de la regulació emocional", description: "Aprèn a gestionar les emocions intenses de manera més eficaç." },
+  { title: "Major autoconeixement", description: "Obtén una visió més clara dels teus pensaments, comportaments i patrons." },
+  { title: "Relacions més saludables", description: "Millora les habilitats de comunicació i resolució de conflictes." },
+  { title: "Reducció de l'estrès", description: "Desenvolupa estratègies per gestionar l'estrès i l'ansietat." },
+  { title: "Major resiliència", description: "Construeix mecanismes d'afrontament davant els reptes de la vida." },
+  { title: "Objectius més clars", description: "Identifica i treballa cap a fites personals i professionals." },
+  { title: "Superació del trauma", description: "Sana experiències traumàtiques del passat." },
+  { title: "Millora de la concentració", description: "Potencia el focus i l'agudesa mental." },
+  { title: "Canvi de conducta", description: "Modifica comportaments que no t'ajuden o que són nocius." }
 ]
 
 export const benefits2 = [
-  { title: "Improved mood", description: "Address and alleviate symptoms of depression." },
-  { title: "Better sleep", description: "Tackle sleep disturbances linked to mental health issues." },
-  { title: "Increased confidence", description: "Boost self-esteem and personal empowerment." },
-  { title: "Addiction recovery", description: "Gain tools to overcome substance abuse and dependencies." },
-  { title: "Reduced fear and anxiety", description: "Confront and manage phobias and anxieties." },
-  { title: "Healthy habits", description: "Develop and maintain positive lifestyle changes." },
-  { title: "Effective problem-solving", description: "Learn to approach problems with a clear mind." },
-  { title: "Mental clarity", description: "Gain a better understanding of your mind and emotions." },
-  { title: "Greater life satisfaction", description: "Achieve a more fulfilling and balanced life." }
+  { title: "Millora de l'estat d'ànim", description: "Aborda i alleuja els símptomes de la depressió." },
+  { title: "Millor descans", description: "Tracta els trastorns del son vinculats a la salut mental." },
+  { title: "Augment de la confiança", description: "Potencia l'autoestima i l'empoderament personal." },
+  { title: "Recuperació d'addiccions", description: "Obtén eines per superar l'abús de substàncies i dependències." },
+  { title: "Reducció de pors i ansietat", description: "Afronta i gestiona fòbies i estats ansiosos." },
+  { title: "Hàbits saludables", description: "Desenvolupa i manté canvis positius en el teu estil de vida." },
+  { title: "Resolució de problemes", description: "Aprèn a abordar les dificultats amb la ment clara." },
+  { title: "Claredat mental", description: "Entén millor com funcionen la teva ment i les teves emocions." },
+  { title: "Major satisfacció vital", description: "Aconsegueix una vida més plena, equilibrada i amb sentit." }
 ]

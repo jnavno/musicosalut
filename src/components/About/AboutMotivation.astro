@@ -15,9 +15,11 @@ const title: string = "Quina és la meva motivació"
 ---
 
 <section
-  class="container-fluid justify-content-center row px-sm-2 py-4 p-xl-4 over-hidden"
+  class="container-fluid d-flex row justify-content-center align-items-center px-sm-2 py-4 p-xl-4 over-hidden min-vh-50"
   aria-labelledby="about-motivation-title"
 >
+  {/* The align-items-center above will vertically center both columns */}
+  
   <div
     class="intro-article col-sm-10 col-md-9 col-lg-8 col-xl-8"
     data-aos="fade-right"
@@ -28,17 +30,17 @@ const title: string = "Quina és la meva motivació"
     </h2>
     <Content />
   </div>
+
   <div
-    class="col-sm-10 col-md-7 col-lg-6 col-xl-4"
+    class="col-sm-10 col-md-7 col-lg-6 col-xl-4 d-flex justify-content-center"
     data-aos="fade-up"
     data-aos-duration="1250"
   >
-    <figure class="figure">
+    <figure class="figure mb-0">
       <img
-        src="/images/about-img-3.webp"
-        loading="lazy"
-        class="figure-img img-fluid rounded"
-        alt={`${fullName} listening to a patient`}
+        src="/images/about-img-3.gif"
+        class="figure-img img-fluid rounded shadow-sm"
+        alt={`${fullName} escoltant atentament`}
         title={fullName}
       >
     </figure>
