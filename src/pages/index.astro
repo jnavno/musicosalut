@@ -9,21 +9,21 @@ import Problems from '@components/Home/Problems.astro';
 import QuotesSection from '@components/Home/QuotesSection.astro';
 import Footer from '@components/Footer.astro';
 
-const intro: string = "Welcome"
+const intro: string = "Benvingut / Benvinguda"
 ---
 
-<Layout title="Psychotherapist: Welcome Home">
-	<header class="header" id="index-header" aria-labelledby="index-hero-title">
-		<Navbar />
+<Layout title="Musicoteràpia i Psicologia: Benvinguts">
+    <header class="header" id="index-header" aria-labelledby="index-hero-title">
+        <Navbar />
     <h1 class="hero-title" id="index-hero-title">
-			{intro}
-		</h1>
+            {intro}
+        </h1>
   </header>
-	<main id="index-main" class="main">
-		<Landing />
-		<Testimonial />
-		<Problems />
-		<QuotesSection />
-	</main>
-	<Footer />
+    <main id="index-main" class="main">
+        <Landing />
+        <Testimonial />
+        <Problems />
+        <QuotesSection />
+    </main>
+    <Footer />
 </Layout>

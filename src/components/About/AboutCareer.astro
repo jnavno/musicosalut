@@ -11,7 +11,7 @@ if (!aboutLanding) {
 const { Content } = await render(aboutLanding)
 const { fullName } = myInfo
 
-const title: string = "My Professional Career"
+const title: string = "La meva trajectòria professional"
 ---
 
 <section
@@ -29,7 +29,7 @@ const title: string = "My Professional Career"
         src="/images/about-img-2.webp"
         loading="lazy"
         class="figure-img img-fluid rounded"
-        alt={`${fullName} listening to two patients`}
+        alt={`${fullName} escoltant atentament`}
         title={fullName}
       >
     </figure>
@@ -40,6 +40,8 @@ const title: string = "My Professional Career"
     data-aos-duration="1250"
   >
     <h2 id="career-title" class="my-5 mt-2">{title}</h2>
-    <Content />
+    <article>
+      <Content />
+    </article>
   </div>
 </section>

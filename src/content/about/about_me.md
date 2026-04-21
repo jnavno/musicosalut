@@ -2,7 +2,7 @@
 title: "Sobre mi"
 ---
 
-La vida està plena de desafiaments i, de vegades, necessitem una mà que ens ajudi a trobar claredat, força i propòsit. Sóc la **Clara Winslow**, Psicòloga i Musicoterapeuta, dedicada a acompanyar les persones en el seu camí cap a la sanació i l'autoconeixement.
+La vida està plena de desafiaments i, de vegades, necessitem una mà que ens ajudi a trobar claredat, força i propòsit. Sóc la **Montse Navarro**, Psicòloga i Musicoterapeuta, dedicada a acompanyar les persones en el seu camí cap a la sanació i l'autoconeixement.
 
 Amb anys d'experiència, he treballat amb persones que s'enfronten a l'ansietat, la falta de confiança i diversos bloquejos emocionals. La meva mirada no es basa només a escoltar, sinó a empoderar-te perquè puguis prendre les regnes, alliberar-te de les pors i crear canvis significatius en la teva vida.
 
