@@ -9,7 +9,7 @@ if (!helpLanding) {
 
 const { Content } = await render(helpLanding)
 
-const title: string = "Why Attending Therapy?"
+const title: string = "Per què fer teràpia?"
 ---
 
 <section
@@ -20,6 +20,8 @@ const title: string = "Why Attending Therapy?"
     {title}
   </h2>
   <div class="container-fluid" data-aos="zoom-in" data-aos-duration="1250">
-    <Content />
+    <article>
+      <Content />
+    </article>
   </div>
 </section>

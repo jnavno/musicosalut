@@ -1,17 +1,17 @@
 ---
-title: "First Review"
+title: "Primer testimoni"
 ---
 
-I had been struggling with anxiety for years, unsure of how to manage my emotions or regain control over my thoughts. After starting therapy here, I finally found the support and guidance I needed to navigate my challenges.
+Havia estat lluitant contra l'ansietat durant anys, sense saber com gestionar les meves emocions o recuperar el control sobre els meus pensaments. Després de començar la teràpia aquí, finalment vaig trobar el suport i la guia que necessitava per navegar pels meus desafiaments.
 
-From the very first session, I felt heard and understood. The compassionate and professional approach made it easy for me to open up about my concerns without fear of judgment.
+Des de la primera sessió, em vaig sentir escoltat/da i comprès/a. L'enfocament compassiu i professional va fer que em fos fàcil obrir-me sobre les meves preocupacions sense por a ser jutjat/da.
 
-Each session provided me with new insights and practical techniques to handle stress and anxiety more effectively. The strategies I learned have truly transformed the way I approach life’s difficulties.
+Cada sessió em va aportar noves perspectives i tècniques pràctiques per gestionar l'estrès i l'ansietat de manera més eficaç. Les estratègies que he après han transformat realment la manera com afronto les dificultats de la vida.
 
-What I appreciate the most is the safe and welcoming environment. I always felt encouraged to explore my emotions at my own pace, never pressured or rushed.
+El que més valoro és l'entorn segur i acollidor. Sempre em vaig sentir encoratjat/da a explorar les meves emocions al meu propi ritme, sense sentir-me mai pressionat/da ni amb presses.
 
-The progress I’ve made has been incredible. I’ve gained confidence, learned how to set healthy boundaries, and developed a more positive mindset.
+El progrés que he fet ha estat increïble. He guanyat confiança, he après a posar límits saludables i he desenvolupat una mentalitat més positiva.
 
-I never imagined I could feel this way—more in control, peaceful, and optimistic about the future.
+Mai hauria imaginat que em podria sentir així: amb més control, en pau i optimista respecte al futur.
 
-Seeking help was the best decision I’ve ever made, and I’m grateful for the support that has helped me move forward.
+Demanar ajuda ha estat la millor decisió que he pres mai, i estic molt agraït/da pel suport que m'ha ajudat a seguir endavant.
