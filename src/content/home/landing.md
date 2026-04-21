@@ -1,12 +1,13 @@
 ---
-title: "Landing Intro"
+title: "Introducció"
 ---
-Life can be overwhelming, and at times, we all need support to find our way. I’m Clara Winslow, a Certified Psychotherapist and Life Coach, dedicated to helping you navigate life’s challenges with confidence and clarity. Whether you're struggling with anxiety, self-doubt, or major life changes, you don’t have to face them alone.
 
-Therapy isn’t just about healing—it’s about transformation. It’s about uncovering your strengths, breaking free from limiting beliefs, and stepping into a life that feels aligned with who you truly are. My goal is to create a safe, supportive space where you feel heard, understood, and empowered to grow.
+La vida pot ser aclaparadora i, de vegades, tots necessitem suport per trobar el nostre camí. Sóc la **Clara Winslow**, Psicòloga i Musicoterapeuta, dedicada a ajudar-te a navegar pels desafiaments de la vida amb confiança i claredat. Tant si estàs lluitant contra l'ansietat, la falta de confiança o canvis vitals importants, no cal que els afrontis sol/a.
 
-Through thoughtful conversations and personalized guidance, we will explore the obstacles holding you back and develop practical strategies to move forward. Change doesn’t happen overnight, but with the right support, it becomes possible.
+La teràpia no tracta només de sanar, sinó de transformar-se. Es tracta de descobrir les teves fortaleses, alliberar-te de creences limitants i fer el pas cap a una vida que se senti en sintonia amb qui ets realment. El meu objectiu és crear un espai segur i de suport on et sentis escoltat/da, comprès/a i empoderat/da per créixer.
 
-Taking the first step toward therapy or coaching can feel intimidating, but it’s also an act of courage. It means choosing yourself, your well-being, and your future. You are not alone in this journey—I am here to walk alongside you.
+A través de converses reflexives i una orientació personalitzada —integrant la música com a canal d'expressió emocional— explorarem els obstacles que et frenen i desenvoluparem estratègies pràctiques per seguir endavant. El canvi no es produeix d'un dia per l'altre, però amb el suport adequat, esdevé possible.
 
-You deserve a life filled with clarity, peace, and purpose. Let’s begin this journey together.
+Fer el primer pas cap a la teràpia pot fer respecte, però també és un acte de coratge. Significa triar-te a tu mateix/a, el teu benestar i el teu futur. No estàs sol/a en aquest viatge: sóc aquí per caminar al teu costat.
+
+Mereixes una vida plena de claredat, pau i propòsit. Comencem aquest camí junts.
