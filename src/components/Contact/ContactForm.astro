@@ -1,9 +1,7 @@
 ---
 const contactFormIntro: string = "Demana la teva primera sessió omplint i enviant aquest formulari"
 const actionUrl: string = "https://api.web3forms.com/submit"
-const ACCESS_KEY: string = import.meta.env.WEB3_FORMS_API_KEY
-
-if(!ACCESS_KEY) console.error(`Missing environment variable: ${ACCESS_KEY}`)
+const ACCESS_KEY: string = import.meta.env.WEB3_FORMS_API_KEY || ""
 ---
 
 <section
@@ -19,116 +17,53 @@ if(!ACCESS_KEY) console.error(`Missing environment variable: ${ACCESS_KEY}`)
   >
     {contactFormIntro}
   </h2>
-  <form class="row g-3 col-12 col-lg-11" action={actionUrl} method="POST">
+
+  <form class="row g-3 col-12 col-lg-11" action="https://api.web3forms.com/submit" method="POST">
+    {/* Explicitly check if the key exists, otherwise it sends an empty string which triggers the error */}
     <input type="hidden" name="access_key" value={ACCESS_KEY}>
-    <input type="hidden" name="redirect" value="/">
-    <input type="hidden" name="subject" value="Nou missatge de contacte - Musicosalut">
-    <input type="hidden" name="from_name" value="Web Musicosalut">
-    <input type="checkbox" name="botcheck" id="" style="display: none;">
+    <input type="hidden" name="from_name" value="Musicosalut Web">
+    <input type="hidden" name="subject" value="Nova consulta de client - Musicosalut">
     
+    {/* Anti-Spam Honeypot */}
+    <input type="checkbox" name="botcheck" class="d-none" style="display: none;">
+
     <div class="col-md-6">
       <label for="inputName" class="form-label">Nom i cognoms</label>
-      <input
-        type="text"
-        name="fullname"
-        class="form-control"
-        id="inputName"
-        placeholder="Escriu el teu nom"
-        required
-        aria-label="Nom complet"
-      >
+      <input type="text" name="name" class="form-control" id="inputName" placeholder="Escriu el teu nom" required>
     </div>
     
     <div class="col-md-6">
       <label for="inputEmail4" class="form-label">Correu electrònic</label>
-      <input
-        type="email"
-        name="email"
-        class="form-control"
-        id="inputEmail4"
-        placeholder="el-teu@correu.com"
-        required
-        aria-label="Correu electrònic"
-      >
+      <input type="email" name="email" class="form-control" id="inputEmail4" placeholder="el-teu@correu.com" required>
     </div>
     
     <div class="col-md-6">
       <label for="inputPhone" class="form-label">Telèfon</label>
-      <input
-        type="tel"
-        name="phone"
-        class="form-control"
-        id="inputPhone"
-        placeholder="El teu número"
-        required
-        aria-label="Número de telèfon"
-      >
-    </div>
-    
-    <div class="col-md-6">
-      <label for="inputAddress" class="form-label">Adreça</label>
-      <input
-        type="text"
-        name="address"
-        class="form-control"
-        id="inputAddress"
-        placeholder="Carrer, número, pis"
-        required
-        aria-label="Adreça"
-      >
+      <input type="tel" name="phone" class="form-control" id="inputPhone" placeholder="El teu número" required>
     </div>
     
     <div class="col-md-6">
       <label for="inputCity" class="form-label">Població</label>
-      <input
-        type="text"
-        name="city"
-        class="form-control"
-        id="inputCity"
-        placeholder="La teva ciutat"
-        required
-        aria-label="Ciutat"
-      >
+      <input type="text" name="city" class="form-control" id="inputCity" placeholder="La teva ciutat" required>
     </div>
-    
-    <div class="col-md-6">
-      <label for="inputDate" class="form-label">Data de naixement</label>
-      <input
-        type="date"
-        name="birthdate"
-        class="form-control"
-        id="inputDate"
-        required
-        aria-label="Data de naixement"
-      >
-    </div>
-    
-    <div class="form-floating">
+
+    <div class="col-12 mt-3">
+      <label for="messageTextarea" class="form-label">Com et puc ajudar?</label>
       <textarea
         class="form-control"
         name="message"
-        placeholder="Escriu el teu comentari aquí"
-        id="floatingTextarea2"
+        id="messageTextarea"
         style="height: 150px"
+        placeholder="Explica'm breument què necessites..."
         required
-        aria-label="Missatge"
       ></textarea>
-      <label for="floatingTextarea2" id="textarea-label">Com et puc ajudar?</label>
     </div>
     
     <div class="col-12 d-flex flex-column flex-sm-row justify-content-center mt-4">
-      <button
-        type="submit"
-        class="btn btn-success mx-4 mb-3 mb-sm-0 px-5 py-2 rounded-pill"
-        aria-label="Enviar formulari de contacte"
-      >
-        Enviar
+      <button type="submit" class="btn btn-success mx-4 mb-3 mb-sm-0 px-5 py-2 rounded-pill">
+        Enviar missatge
       </button>
-      <button
-        type="reset"
-        class="btn btn-warning mx-4 px-5 py-2 rounded-pill"
-        aria-label="Esborrar el formulari"
-      >
+      <button type="reset" class="btn btn-warning mx-4 px-5 py-2 rounded-pill">
         Restablir
       </button>
     </div>
