@@ -1,13 +1,13 @@
 import type { IMyInfo } from "@interfaces/IMyInfo"
 
 export const myInfo: IMyInfo = {
-  myName: "Clara",
-  surname: "Winslow",
-  fullName: "Clara Winslow",
-  myProf: "Psychotherapist",
-  fullProf: "Psychotherapist & Life Coach",
-  email: "emailaddress@domain.com",
-  phone: "098 - 765 - 1234",
-  onlineTreating: "Via Meet, Skype or Zoom",
-  officeAddress: "Office Name, Street 123 - City"
+  myName: "Montse",
+  surname: "Navarro",
+  fullName: "Montse Navarro",
+  myProf: "Musicoterapeuta i psicòloga",
+  fullProf: "Musicoterapeuta i psicòloga",
+  email: "mnavarronog@gmail.com",
+  phone: "630844588",
+  onlineTreating: "Via Meet, Skype o Zoom",
+  officeAddress: "sala Lotus, Carrer - Reus"
 }
