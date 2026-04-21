@@ -1,15 +1,15 @@
 ---
-title: "My Motivation"
+title: "La meva motivació"
 ---
 
-From a young age, I was drawn to understanding the complexities of the human mind. My desire to help others led me to pursue a career in psychotherapy and life coaching, where I could make a tangible difference in people’s lives.
+Des de ben jove, em vaig sentir atreta per comprendre la complexitat de la ment humana. El meu desig d'ajudar els altres em va portar a emprendre una carrera en la psicologia i l'acompanyament terapèutic, on realment pogués marcar una diferència tangible en la vida de les persones.
 
-What motivates me most is seeing the transformation in my clients. There’s nothing more rewarding than helping someone overcome their struggles and empowering them to lead a more fulfilling life.
+El que més em motiva és presenciar la transformació dels meus pacients. No hi ha res més gratificant que ajudar algú a superar les seves dificultats i empoderar-lo per portar una vida més plena i conscient.
 
-I am passionate about creating a safe and supportive environment where individuals can confront their fears, uncover their strengths, and realize their true potential. Each person’s journey is unique, and I’m honored to be a part of that process.
+M'apassiona crear un entorn segur i de suport on cada persona pugui enfrontar les seves pors, descobrir les seves fortaleses i assolir el seu autèntic potencial. El camí de cada individu és únic, i per a mi és un honor formar part d'aquest procés.
 
-Helping others heal and grow has always been my calling. It’s a privilege to walk alongside my clients as they discover their inner strength and resilience.
+Ajudar els altres a sanar i créixer ha estat sempre la meva vocació. És un privilegi caminar al costat dels meus pacients mentre descobreixen la seva pròpia força interior i la seva resiliència.
 
-My work is driven by the belief that change is possible for everyone, no matter where they begin.
+La meva feina neix de la convicció que el canvi és possible per a tothom, sense importar quin sigui el punt de partida.
 
-This deep-rooted motivation fuels my dedication to continuous learning and improving my practice.
+Aquesta motivació profunda és la que alimenta la meva dedicació a l'aprenentatge continu i a la millora constant de la meva pràctica professional.

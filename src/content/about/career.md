@@ -1,15 +1,15 @@
 ---
-title: "My Career"
+title: "La meva trajectòria"
 ---
 
-I have always been passionate about helping others live fulfilling lives. Over the years, I’ve gained a wealth of experience working as a Certified Psychotherapist and Life Coach, guiding individuals through life’s most difficult challenges.
+Sempre m'ha apassionat ajudar els altres a viure vides plenes i significatives. Al llarg dels anys, he acumulat una àmplia experiència treballant com a Psicòloga col·legiada i Musicoterapeuta, guiant les persones a través dels desafiaments més complexos de la vida.
 
-I hold a degree in psychology and have specialized training in cognitive-behavioral therapy (CBT), mindfulness, and solution-focused coaching. I continue to stay current with the latest therapeutic techniques and research to provide the best possible care to my clients.
+Sóc graduada en Psicologia i m'he especialitzat en Teràpia Cognitiu-Conductual (TCC), mindfulness i musicoteràpia clínica. Em mantinc en formació contínua per estar al dia de les darreres tècniques terapèutiques i investigacions, amb l'objectiu d'oferir la millor cura possible als meus pacients.
 
-Throughout my career, I’ve worked with individuals facing a variety of struggles—anxiety, depression, self-esteem issues, relationship difficulties, and life transitions. My goal has always been to empower my clients to break through barriers and create lasting, positive change.
+Al llarg de la meva carrera, he acompanyat persones que s'enfrontaven a diverses dificultats: ansietat, depressió, problemes d'autoestima, conflictes relacionals i transicions vitals importants. El meu objectiu sempre ha estat empoderar els meus pacients perquè trenquin les seves barreres i creïn un canvi positiu i durador.
 
-I bring a warm, empathetic approach to every session, focused on building a trusting, non-judgmental space where clients feel safe to explore their deepest concerns.
+Aporto un enfocament càlid i empàtic a cada sessió, centrat a construir un espai de confiança, sense judicis, on et puguis sentir segur/a per explorar les teves preocupacions més profundes.
 
-Beyond my formal training, I am constantly learning and growing as a professional, striving to offer innovative, effective approaches.
+Més enllà de la meva formació reglada, estic en constant aprenentatge i creixement professional, buscant sempre oferir enfocaments innovadors i efectius que s'adaptin a la realitat de cada persona.
 
-My commitment to continuous self-improvement ensures that I offer the highest level of care and guidance.
+El meu compromís amb la millora contínua garanteix que ofereixo un nivell de cura i orientació d'acord amb els estàndards ètics i professionals més exigents.

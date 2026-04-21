@@ -1,15 +1,15 @@
 ---
-title: "My Approach"
+title: "La meva metodologia"
 ---
 
-Every individual is unique, and so is the path to healing. My approach is rooted in understanding, adaptability, and evidence-based techniques that help clients navigate their personal challenges with confidence and clarity.
+Cada persona és única i, per tant, el seu camí cap al benestar també ho ha de ser. La meva metodologia es basa en la comprensió, l'adaptabilitat i tècniques contrastades que ajuden els pacients a navegar pels seus reptes personals amb confiança i claredat.
 
-I believe therapy should be a collaborative process where you feel heard, respected, and empowered. By fostering a safe and supportive space, I encourage open conversations that lead to self-awareness, emotional growth, and lasting change.
+Crec que la teràpia ha de ser un procés col·laboratiu on et sentis escoltat/da, respectat/da i empoderat/da. En crear un espai segur i de suport, facilitem converses obertes que condueixen a una major autoconsciència, al creixement emocional i a canvis profunds i duradors.
 
-Using a blend of cognitive-behavioral strategies, mindfulness techniques, and solution-focused methods, I tailor each session to your specific needs. My goal is not only to help you overcome obstacles but also to equip you with the tools to navigate life’s challenges independently.
+Utilitzo una combinació d'estratègies cognitiu-conductuals, tècniques de mindfulness i mètodes orientats a solucions, integrant sempre la sensibilitat de la musicoteràpia per arribar allà on la paraula no és suficient. Adapto cada sessió a les teves necessitats específiques amb un objectiu clar: no només ajudar-te a superar obstacles actuals, sinó també dotar-te de les eines necessàries per afrontar els reptes de la vida de manera independent.
 
-Healing is a journey, not a destination. Together, we will uncover patterns, reshape limiting beliefs, and strengthen your inner resilience.
+El benestar és un viatge, no una destinació. Junts, descobrirem patrons de conducta, transformarem creences limitants i enfortirem la teva resiliència interna.
 
-I emphasize practical steps that lead to meaningful transformation. Progress happens when insight meets action, and I am here to guide you through both.
+Poso l'accent en passos pràctics que porten a una transformació real. El progrés neix quan la comprensió es troba amb l'acció, i la meva funció és guiar-te a través d'ambdues.
 
-No matter where you are in your journey, change is possible. The first step starts here.
+Sigui quin sigui el moment vital en què et trobis, el canvi és possible. El primer pas comença aquí.
