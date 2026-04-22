@@ -2,7 +2,7 @@
 title: "Introducció"
 ---
 
-La vida pot ser aclaparadora i, de vegades, tots necessitem suport per trobar el nostre camí. Sóc la **Clara Winslow**, Psicòloga i Musicoterapeuta, dedicada a ajudar-te a navegar pels desafiaments de la vida amb confiança i claredat. Tant si estàs lluitant contra l'ansietat, la falta de confiança o canvis vitals importants, no cal que els afrontis sol/a.
+La vida pot ser aclaparadora i, de vegades, tots necessitem suport per trobar el nostre camí. Sóc la **Montse Navarro**, Psicòloga i Musicoterapeuta, dedicada a ajudar-te a navegar pels desafiaments de la vida amb confiança i claredat. Tant si estàs lluitant contra l'ansietat, la falta de confiança o canvis vitals importants, no cal que els afrontis sol/a.
 
 La teràpia no tracta només de sanar, sinó de transformar-se. Es tracta de descobrir les teves fortaleses, alliberar-te de creences limitants i fer el pas cap a una vida que se senti en sintonia amb qui ets realment. El meu objectiu és crear un espai segur i de suport on et sentis escoltat/da, comprès/a i empoderat/da per créixer.
 
