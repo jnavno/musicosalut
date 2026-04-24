@@ -1,5 +1,5 @@
 interface ImportMetaEnv {
-  readonly WEB3_FORMS_API_KEY: string;
+  readonly PUBLIC_WEB3_FORMS_API_KEY: string;
 }
 
 interface ImportMeta {
