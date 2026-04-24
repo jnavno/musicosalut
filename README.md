@@ -59,7 +59,3 @@ All commands are run from the root of the project, from a terminal:
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-## 🧑‍💻 Developer
-
-- [**MartinXCVI**](https://github.com/MartinXCVI)
